@@ -1,0 +1,15 @@
+{
+  "candidate_roles": [
+    "Build a conservative, validator-safe full-object reconstruction with all large volumes attached.",
+    "Build a feature-rich variant emphasizing repeated small parts, holes, spokes, handles, and surface details.",
+    "Build a silhouette-first variant emphasizing the exact outline and major proportions.",
+    "Build an orientation-first variant emphasizing correct axes, ground contact, and functional attachments.",
+    "Build a material/color-first variant emphasizing material separation and reference colors.",
+    "Build a robust fallback variant that keeps object identity obvious even if details are simplified.",
+    "Extra candidate: repair likely weak identity by adding the most object-defining missing parts.",
+    "Extra candidate: repair likely low-survivor failure with simpler geometry and strict validator safety."
+  ],
+  "entry_id": "brisk-citadel",
+  "system_prompt": "Portfolio strategy: adaptive-lite. Spend extra modeling detail only when the core object identity or rendered survivor quality is weak. Favor a conservative valid reconstruction with more attached, visible parts rather than a complex fragile one.",
+  "title": "Adaptive-Lite Budget"
+}
